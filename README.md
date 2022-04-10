@@ -1,4 +1,4 @@
-![Profile Views](![](https://komarev.com/ghpvc/?username=imlegend19&style=for-the-badge))
+![Profile Views](https://komarev.com/ghpvc/?username=imlegend19&style=for-the-badge)
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World! </h1>
 
