@@ -61,8 +61,8 @@ My name is Mahen Gandhi. I am currently working as SDE-1 at [Swiggy](https://swi
 ### Let's connect ? 🤝
 
 <p align="left">
-<a style="height: 100%" href="https://www.linkedin.com/in/mahen-gandhi"><img src="![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)"/></a>
-<a style="height: 100%" href="mailto:mahengandhi19@gmail.com"><img src="![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)"/></a>
+<a style="height: 100%" href="https://www.linkedin.com/in/mahen-gandhi"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/></a>
+<a style="height: 100%" href="mailto:mahengandhi19@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
 
 <!--
