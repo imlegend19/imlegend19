@@ -2,7 +2,7 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World! </h1>
 
-My name is Mahen Gandhi. I am currently working as SDE-1 at [Swiggy](https://swiggy.com).
+My name is Mahen Gandhi. I am currently working as Tech Crafter at [Swiggy](https://swiggy.com).
 
 ![](https://raw.githubusercontent.com/imlegend19/imlegend19/output/github-contributions-grid.svg)
 
