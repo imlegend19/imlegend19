@@ -1,8 +1,9 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=imlegend19&style=for-the-badge)
 
+<!--
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World! </h1>
 
-My name is Mahen Gandhi. I am currently working as Tech Crafter at [Swiggy](https://swiggy.com).
+My name is Mahen Gandhi.
 
 ![](https://raw.githubusercontent.com/imlegend19/imlegend19/output/github-contributions-grid.svg)
 
@@ -46,6 +47,7 @@ My name is Mahen Gandhi. I am currently working as Tech Crafter at [Swiggy](http
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
+-->
 
 ### Let's connect ? 🤝
 
